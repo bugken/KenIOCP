@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\|

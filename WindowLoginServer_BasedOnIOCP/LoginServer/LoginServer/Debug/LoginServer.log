@@ -1,0 +1,46 @@
+﻿生成启动时间为 2020/7/21 13:59:54。
+     1>项目“F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\LoginServer\LoginServer.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Debug\LoginServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\LoginServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ClientParse.cpp LoginServer.cpp
+         LoginServer.cpp
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\loginserver\clientparse.h(78): warning C4091: “typedef ”: 没有声明变量时忽略“SqlConNode”的左侧
+         ClientParse.cpp
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\loginserver\clientparse.h(78): warning C4091: “typedef ”: 没有声明变量时忽略“SqlConNode”的左侧
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\loginserver\clientparse.cpp(125): warning C4018: “>”: 有符号/无符号不匹配
+         正在生成代码...
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _WINSOCK_DEPRECATED_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt IOCPModel.cpp Lock.cpp logger.cpp
+         logger.cpp
+         Lock.cpp
+         IOCPModel.cpp
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\include\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+     1>f:\gamedoc\iocp\windowloginserver_basedoniocp\login-server-for-windows-master\loginserver\loginserver\clientparse.h(78): warning C4091: “typedef ”: 没有声明变量时忽略“SqlConNode”的左侧
+         正在生成代码...
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\Debug\LoginServer.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\include\mysql\lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\Debug\LoginServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\Debug\LoginServer.lib" /MACHINE:X86 Debug\ClientParse.obj
+         Debug\IOCPModel.obj
+         Debug\Lock.obj
+         Debug\logger.obj
+         Debug\LoginServer.obj
+         Debug\pch.obj
+         LoginServer.vcxproj -> F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\Debug\LoginServer.exe
+     1>已完成生成项目“F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\LoginServer\LoginServer.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.91

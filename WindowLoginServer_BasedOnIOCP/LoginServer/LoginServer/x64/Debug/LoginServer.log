@@ -1,0 +1,8 @@
+﻿生成启动时间为 2020/7/21 13:59:18。
+     1>项目“F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\LoginServer\LoginServer.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install v141 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>已完成生成项目“F:\GameDoc\IOCP\WindowLoginServer_BasedOnIOCP\login-server-for-windows-master\LoginServer\LoginServer\LoginServer.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.01

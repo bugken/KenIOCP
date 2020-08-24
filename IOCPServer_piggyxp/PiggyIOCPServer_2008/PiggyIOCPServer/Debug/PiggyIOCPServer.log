@@ -1,0 +1,46 @@
+﻿生成启动时间为 2020/7/21 16:12:22。
+     1>项目“F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\PiggyIOCPServer\PiggyIOCPServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PiggyIOCPServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt IOCPModel.cpp MainDlg.cpp PiggyIOCPServer.cpp
+         IOCPModel.cpp
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(100): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : 参见“inet_ntoa”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(299): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(3457) : 参见“WSASocketA”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(327): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : 参见“inet_addr”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(456): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(3457) : 参见“WSASocketA”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(498): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : 参见“inet_ntoa”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(573): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : 参见“inet_ntoa”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(670): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238) : 参见“gethostbyname”的声明
+     1>f:\gamedoc\iocp\iocpserver_piggyxp\piggyiocpserver_2008\piggyiocpserver\iocpmodel.cpp(682): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : 参见“inet_ntoa”的声明
+         正在生成代码...
+         正在编译...
+         PiggyIOCPServer.cpp
+         MainDlg.cpp
+         正在生成代码...
+       Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.exe" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:XPStyle.manifest /manifestinput:"D:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.lib" /MACHINE:X86 /SAFESEH Debug\PiggyIOCPServer.res
+         Debug\IOCPModel.obj
+         Debug\MainDlg.obj
+         Debug\PiggyIOCPServer.obj
+         Debug\stdafx.obj
+         Microsoft (R) Incremental Linker Version 12.00.40629.0
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         "/OUT:F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.exe" /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:XPStyle.manifest "/manifestinput:D:\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG "/PDB:F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.lib" /MACHINE:X86 /SAFESEH Debug\PiggyIOCPServer.res 
+         Debug\IOCPModel.obj 
+         Debug\MainDlg.obj 
+         Debug\PiggyIOCPServer.obj 
+         Debug\stdafx.obj 
+         PiggyIOCPServer.vcxproj -> F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\Debug\PiggyIOCPServer.exe
+     1>已完成生成项目“F:\GameDoc\IOCP\IOCPServer_piggyxp\PiggyIOCPServer_2008\PiggyIOCPServer\PiggyIOCPServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.47
